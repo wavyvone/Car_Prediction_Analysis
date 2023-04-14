@@ -1,0 +1,27 @@
+Column,Desecription
+car_ID,Index of the car type (name)
+symboling,Value of a car's insurance risk level
+CarName,Name of the car's model
+fueltype,The type of fuel the car uses
+aspiration,Type of aspiration the car is
+doornumber,The number of doors the car has
+carbody,Type of car the body is
+drivewheel,What type of drive the car is
+enginelocation,Where the engine is located in the car
+wheelbase,Distance between the center of the front wheels and the centre of the rear wheels
+carlength,The length of the car
+carwidth,The width of the car
+carheight,The height of the car
+curbweight,The weight of the vehicle with a full tank of fuel
+enginetype,Type of engine
+cylindernumber,Number of cylinders in the engine
+enginesize,The volume of fuel and air that can be pushed through a car's cylinders
+fuelsystem,The type of fuel system
+boreratio,The ratio between the dimensions of the engine cylinder bore diameter to its piston stroke-length
+stroke,How far the piston travels in the cylinder
+compressionratio,The ratio between the volume of the cylinder with the piston in the bottom position
+horsepower,Measurement used to calculate how quickly the force is produced from a vehicle's engine
+peakrpm,The highest rpm the car can achieve
+citympg,The MPG of a car in a city
+highwaympg,The MPG of a car on the highway
+price,The price of a car
